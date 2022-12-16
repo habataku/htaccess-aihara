@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "あいはらかずき"
+AuthUserFile /static/.htpasswd
+require valid-user
