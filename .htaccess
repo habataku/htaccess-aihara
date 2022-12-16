@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "import"
+AuthUserFile /.htpasswd
+require valid-user
